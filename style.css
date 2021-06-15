@@ -7,6 +7,14 @@ header h1{
   margin-bottom: 0;
 }
 
+footer{
+  background-color: #14213D;
+  font-family: HelvLight;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+}
+  
 aside{
 background-color: #FCA311;
 height: 100%;
@@ -29,10 +37,4 @@ article{
  
 }
 
-footer{
-  background-color: #14213D;
-  font-family: HelvLight;
-  color: white;
-  text-align: center;
-  line-height: 100px;
-}
+
