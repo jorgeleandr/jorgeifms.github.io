@@ -1,18 +1,18 @@
 header h1{
-  background-color: #14213D;
-  line-height: 100px;
-  font-family: HelvLight;
-  color: white;
-  text-align: center;
-  margin-bottom: 0;
+background-color: #14213D;
+line-height: 100px;
+font-family: HelvLight;
+color: white;
+text-align: center;
+margin-bottom: 0;
 }
 
 footer{
-  background-color: #14213D;
-  font-family: HelvLight;
-  color: white;
-  text-align: center;
-  line-height: 100px;
+background-color: #14213D;
+font-family: HelvLight;
+color: white;
+text-align: center;
+line-height: 100px;
 }
   
 aside{
@@ -22,19 +22,18 @@ border: 1px solid #FCA311;
 }
 
 body {
-  background-color: #E5E5E5;
+background-color: #E5E5E5;
 }
 
 article{
-  text-align: center;
- flex-direction: row;
-
+text-align: center;
+flex-direction: row;
 }
 
 .container{
-  background-color: #DAE1E7;
-  font-family: HelvLight;
- 
+background-color: #DAE1E7;
+font-family: HelvLight;
+
 }
 
 
