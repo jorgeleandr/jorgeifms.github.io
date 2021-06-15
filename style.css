@@ -6,3 +6,25 @@ header h1{
   text-align: center;
   margin-bottom: 0;
 }
+
+aside{
+background-color: #FCA311;
+height: 100%;
+border: 1px solid #FCA311;
+}
+
+body {
+  background-color: #E5E5E5;
+}
+
+article{
+  text-align: center;
+ flex-direction: row;
+
+}
+
+.container{
+  background-color: #DAE1E7;
+  font-family: HelvLight;
+ 
+}
