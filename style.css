@@ -28,3 +28,11 @@ article{
   font-family: HelvLight;
  
 }
+
+footer{
+  background-color: #14213D;
+  font-family: HelvLight;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+}
